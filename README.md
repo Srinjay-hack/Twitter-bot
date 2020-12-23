@@ -7,10 +7,13 @@ Go to  https://developer.twitter.com/en and make your developer aaccount
 
 After making that,go to create an app,
 try to know your
-CONSUMER_KEY = 
-CONSUMER_SECRET = 
-ACCESS_KEY= 
-ACCESS_SECRET=
+CONSUMER_KEY = "AAAAAAAAA"
+CONSUMER_SECRET ="BBBBBBBBBBB"
+ACCESS_KEY= "CCCCCCCCC"
+ACCESS_SECRET="DDDDDDDDDD"
+
+
+
 in keyand token sections in the app you named.
 It will be mention in your developer account as you create an app
 
